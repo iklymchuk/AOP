@@ -1,0 +1,10 @@
+/home/iklymchuk/FL/workspace/AOP/src/main/java/com/klymchuk/AOP/Handlers/ProxyFactory.java
+/home/iklymchuk/FL/workspace/AOP/src/main/java/com/klymchuk/AOP/User/UserImpl.java
+/home/iklymchuk/FL/workspace/AOP/src/main/java/com/klymchuk/AOP/Handlers/AbstractHandler.java
+/home/iklymchuk/FL/workspace/AOP/src/main/java/com/klymchuk/AOP/Appartment/Appartment.java
+/home/iklymchuk/FL/workspace/AOP/src/main/java/com/klymchuk/AOP/User/User.java
+/home/iklymchuk/FL/workspace/AOP/src/main/java/com/klymchuk/AOP/Handlers/AfterHandlerImpl.java
+/home/iklymchuk/FL/workspace/AOP/src/main/java/com/klymchuk/AOP/Handlers/BeforeHandlerImpl.java
+/home/iklymchuk/FL/workspace/AOP/src/main/java/com/klymchuk/AOP/Handlers/BeforeHandler.java
+/home/iklymchuk/FL/workspace/AOP/src/main/java/com/klymchuk/AOP/Handlers/AfterHandler.java
+/home/iklymchuk/FL/workspace/AOP/src/main/java/com/klymchuk/AOP/Appartment/AppartmentImpl.java
